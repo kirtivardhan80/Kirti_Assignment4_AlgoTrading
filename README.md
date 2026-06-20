@@ -1,4 +1,8 @@
 # Algo-Trading Prototype with Logistic Regression
+<div align="center">
+  <img src="sample tree.jpg" height="2048" width="1365" alt="Tree"/>
+  <br/>
+</div>
 
 An end-to-end algorithmic trading system that combines rule-based
 technical analysis with machine learning to generate buy/sell
