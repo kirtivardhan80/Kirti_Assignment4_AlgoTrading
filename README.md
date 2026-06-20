@@ -1,6 +1,6 @@
 # Algo-Trading Prototype with Logistic Regression
 <div align="center">
-  <img src="sample tree.jpg" height="2048" width="1365" alt="Tree"/>
+  <img src="Sample Trading.jfif" height="2048" width="1365" alt="Tree"/>
   <br/>
 </div>
 
